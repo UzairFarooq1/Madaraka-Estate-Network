@@ -1,0 +1,38 @@
+{
+    "SportsComplex": {
+        "Siwaka": {"weight":450}
+    },
+    "Siwaka": {
+        "Ph.1A":  {"weight":10},
+        "Ph.1B":  {"weight":230}
+    },
+    "Ph.1A": {
+        "Ph.1B":  {"weight":100},
+        "Mada":   {"weight":850}
+    },
+    "Ph.1B": {
+        "Phase2": {"weight":112},
+        "STC":    {"weight":50}
+    },
+    "STC": {
+        "Phase2": {"weight":50},
+        "ParkingLot": {"weight":250}
+    },
+    "Phase2": {
+        "J1": {"weight":600},
+        "Phase3": {"weight":500}
+    },
+    "J1": {
+        "Mada": {"weight":200}
+    },
+    "Mada": {
+        "ParkingLot": {"weight":700}
+    },
+    "Phase3": {
+        "ParkingLot": {"weight":350}
+    },
+    "ParkingLot": {
+
+    }
+
+}
